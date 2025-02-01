@@ -1,7 +1,7 @@
 # TCPChat
 Simple TCP Chat. 
 
-TCP Server listens on port localhost:8080 and sent notifications to all connected peers when events happen. Messages are shown in stdout.
+TCP Server listens on localhost:8080 and sent notifications to all connected peers when events happen. Messages are shown in stdout.
 
 ## Description
 
