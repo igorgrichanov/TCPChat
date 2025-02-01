@@ -7,7 +7,7 @@ TCP Server listens on port localhost:8080 and sent notifications to all connecte
 
 You can connect to server using tools like "netcat".
 
-Server and Client code has been covered by unit-tests. To run tests, enter "go test ."
+Server and Client code has been covered by unit-tests. To run tests, enter "go test"
 
 ## Features
 
